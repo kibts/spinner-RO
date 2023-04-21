@@ -74,6 +74,6 @@
 	<div class="spinner"></div>
 	<p>Vă rugăm să așteptați...</p>
 	<p class="message"></p>
-	<button onclick="location.href='https://trk.adtrk15.com/aff_c?offer_id=16361&aff_id=34921&aff_sub=kaban'">Click aici</button>
+	<button onclick="location.href='https://trk.adtrk15.com/aff_c?offer_id=16361&aff_id=34921&aff_sub=ArtV'">Click aici</button>
 </body>
 </html>
